@@ -8,5 +8,6 @@ cd LC101-CSS
 ```
 
 ## Instructions:
-
-Check your work by opening the HTML, `open index.html`
+We will work through a few examples of CSS using the `example.html` page in class.
+In small chunks, we will build `assignment.html` until it resembles the `.png` found at `goal/finishedposter.png`
+As you are working, you can always check your work by opening the html page, e.g. `open example.html`
